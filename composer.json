@@ -1,0 +1,21 @@
+{
+    "name": "nigatedev/yaml",
+    "description": "Negatedev framework yaml parser",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nigatedev\\Framework\\Yaml\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Abass Ben Cheik",
+            "email": "cheikabassben@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/yaml": "6.0.x-dev"
+    }
+}
