@@ -14,8 +14,8 @@
             "email": "cheikabassben@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "symfony/yaml": "6.0.x-dev"
+        "symfony/yaml": "v5.3.6"
     }
 }
